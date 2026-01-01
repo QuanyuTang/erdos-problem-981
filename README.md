@@ -1,6 +1,6 @@
 # Erdős Problem #981 — Superseded by arXiv Paper
 
-This repository contains the (now superseded) preprint resolving Erdős Problems #981:  
+This repository contains the (now superseded) preprint concerning Erdős Problems #981:  
 https://www.erdosproblems.com/981
 
 ## Contents
